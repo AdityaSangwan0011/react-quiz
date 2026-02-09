@@ -23,7 +23,7 @@ Data: Local JSON / REST API integration for question sets
 Clone the repository:
 
 Bash
-git clone https://github.com/adityaSangwan/react-quiz.git
+git clone [https://github.com/adityaSangwan/react-quiz.git](https://github.com/AdityaSangwan0011/react-quiz)
 Install dependencies:
 
 Bash
