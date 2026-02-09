@@ -7,7 +7,7 @@ A high-performance, interactive quiz application designed to test React and Java
 ## 🚀 Features
 
 * **Dynamic Progress Tracking:** A custom-built progress bar that updates in real-time as the user navigates through the 15 questions.
-* **Real-time Countdown Timer:** Built-in 10-minute timer to simulate a real exam environment, automatically handling quiz submission upon expiration.
+* **Real-time Countdown Timer:** Built-in 450(seconds) 7 minutes 30 seconds timer to simulate a real exam environment, automatically handling quiz submission upon expiration.
 * **Complex State Management:** Orchestrates multiple app states (loading, active, error, finished) using React hooks for a bug-free flow.
 * **Instant Evaluation:** Provides immediate visual feedback on answers and calculates the final score upon completion.
 * **Responsive Design:** Fully optimized for all screen sizes, from mobile devices to desktop monitors.
@@ -31,6 +31,12 @@ A high-performance, interactive quiz application designed to test React and Java
 3. **Start the development server:**
    ```Bash
     npm start
+
+4. **To Start the Mock Backend (JSON Server)**
+   This server hosts your questions from the questions.json file on port 9000.
+   ```Bash
+   npm run server
+
 💡 **What I Learned**
 While building this project, I deepened my understanding of:
 
